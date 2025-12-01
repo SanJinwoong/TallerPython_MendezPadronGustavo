@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este repositorio contiene las prácticas desarrolladas durante el taller de Python, enfocadas en fundamentos de programación, análisis de datos y visualización. El proyecto incluye notebooks de Jupyter con ejercicios sobre:
 
@@ -108,7 +108,7 @@ python src/example.py
 -  Crear visualizaciones efectivas con Matplotlib
 -  Procesar y analizar datos con Pandas
 
-## 🤝 Créditos y Referencias
+##  Créditos y Referencias
 
 - **Desarrollado por:** Méndez Padrón Gustavo Emanuel
 - **Taller basado en:** "Python para la Ciencia, Tecnología e Ingeniería"
